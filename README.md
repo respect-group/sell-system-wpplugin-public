@@ -1,1 +1,1 @@
-# sell-system-wpplugin-pubric
+# sell-system-wpplugin-public
